@@ -1,0 +1,22 @@
+comandos git
+
+para adicionar todos arquivo ao container
+git add * 
+
+para fazer o commit
+git commit -m "teste"
+
+subindo no branck master
+git push -u origin master
+
+quanto o pull der problema executar o seguinte 
+
+git stash
+git stash drop
+git pull
+
+mudar url do projeto no git
+git remote set-url origin # + url do projeto para mudar 
+
+
+git push -u origin main # para subir o projeto
